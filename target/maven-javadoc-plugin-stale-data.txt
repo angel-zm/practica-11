@@ -1,0 +1,41 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica11/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica11/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'practica11 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica11/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'practica11 1.0-SNAPSHOT API'
+com.mycompany.practica11
+'C:/Users/ANGEL ZAMUDIO/Documents/UNI 5TO/POO/practica11/src/main/java/com/mycompany/practica11/Main.java'
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\src\main\java = 1637241052593
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\allclasses-frame.html = 1637823257443
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\allclasses-noframe.html = 1637823257445
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\constant-values.html = 1637823257379
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\deprecated-list.html = 1637823257439
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\help-doc.html = 1637823257453
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\index-all.html = 1637823257433
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\index.html = 1637823257448
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\overview-tree.html = 1637823257428
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\package-list = 1637823257355
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\script.js = 1637823257460
+C:\Users\ANGEL ZAMUDIO\Documents\UNI 5TO\POO\practica11\target\site\apidocs\stylesheet.css = 1637823257457
